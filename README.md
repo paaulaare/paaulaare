@@ -22,7 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 </div>
 
 ## 📊 GitHub Analytics
